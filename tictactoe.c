@@ -77,7 +77,6 @@ int main() {
             updateTable(arr);
             break;
         }   
-        clrscr();
         updateTable(arr);
         count++;
     }while(count!=9);

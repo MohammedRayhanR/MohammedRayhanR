@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics and Coding
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: rayhanmohanned254@gmail.com
+- 📫 How to reach me: rayhanmohammed254@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
